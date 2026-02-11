@@ -28,7 +28,7 @@ The contract allows:
 
 ## HardHat Deployment Addresses
 
-**Sepolia Testnet** (Chain ID: 4202)  
+**Sepolia Testnet** (Chain ID: 11155111)  
 `0xfd829bC1aff3076B84A139049F2a0C257199Ff3D`
 
 
